@@ -84,7 +84,3 @@
 - 🔗 [Chapter 14 - React useReducer + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson14)
 - 🔗 [Chapter 15 - React useContext + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson15)
 - 🔗 [Chapter 16 - React + Typescript Project - Part 1](https://github.com/gitdagray/typescript-course/tree/main/lesson16)
-
-
-### 🎉 Bonus!
-- 🔗 [TypeScript "as const" Assertions - Youtube Short](https://youtube.com/shorts/jEuIp5NU3TU)
