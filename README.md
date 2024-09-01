@@ -1,4 +1,4 @@
-# "Typescript for Beginners"
+# Typescript for Beginners
 
 ### Full Course - 17 Chapters
 
